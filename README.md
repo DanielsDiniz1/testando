@@ -8,7 +8,7 @@ Repositório para armazenar resumos sobre Git e GitHub do Curso versionamento de
 - [Documentação GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 ## 💻Resumos Das Aulas
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 |Gravando auterações no repositório local | [Resumos]
 
