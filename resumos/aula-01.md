@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-testando commit depois do clone
-=======
->>>>>>> 404924072b99068f2b49d5fc2242de5ad5ab1ae2
 
 # DIO | Resumos Git e GitHub
 
@@ -12,22 +8,13 @@ Repositório para armazenar resumos sobre Git e GitHub do Curso versionamento de
 - [Documentação GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 ## 💻Resumos Das Aulas
-<<<<<<< HEAD
 | Aulas | Resumos |
 |-------|---------|
 |Gravando auterações no repositório local | [Resumos]
 
-=======
-| Aulas | Resumo |
-|-------|---------|
-|aula 01| [Resumo]
-|aula 02| [Resumo]
->>>>>>> 404924072b99068f2b49d5fc2242de5ad5ab1ae2
 ```
 Git init
 ```
 
 ## 🔍 Referências
 - [Digital Innovation one]()
-<<<<<<< HEAD
-
